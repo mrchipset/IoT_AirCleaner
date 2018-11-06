@@ -10,6 +10,9 @@ This project is base on NodeMcu ESP8266 Wifi Model to Control Our Cleaner At eve
 
 第四届全国大学生互联网+创新创业大赛铜奖
 
+##server.js
+Server base on nodejs with tcp and nodejs.
+
 ##clock.lua
 In this file, an 24hr mode clock is implemented.
 
