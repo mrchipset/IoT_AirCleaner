@@ -1,6 +1,15 @@
 # IoT_AirCleaner
 This project is base on NodeMcu ESP8266 Wifi Model to Control Our Cleaner At every Corner in the World.
 
+##Honors
+*China College Students' Entrepreneurship Competition in 2018* Silver Award
+
+*The 4rd China College Students' "Internet +" Innovation and Entrepreneurship Competition* Bronze Award
+
+2018年创青春全国大学生创新创业大赛 银奖
+
+第四届全国大学生互联网+创新创业大赛铜奖
+
 ##clock.lua
 In this file, an 24hr mode clock is implemented.
 
